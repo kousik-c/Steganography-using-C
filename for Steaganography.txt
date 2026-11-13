@@ -1,0 +1,3 @@
+for Steaganography
+encode /a.out -e beautiful.bmp secret.txt stego.bmp
+decode ./a.out -d stego.bmp data
